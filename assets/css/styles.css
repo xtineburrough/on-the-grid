@@ -3,3 +3,8 @@
 * {
 	font-family: Arial;
 }
+p, h1, h2, h3 {
+	font-family: "Gentium Book Plus", serif;
+	font-weight: 400;
+	font-style: normal;
+}
